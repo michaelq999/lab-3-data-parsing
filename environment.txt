@@ -1,6 +1,7 @@
 pytest
 numpy
 matplotlib
+scipy
 ipykernel
 notebook
 pandas
